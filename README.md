@@ -1,4 +1,4 @@
-## OLÁ, SEJA BEM-VINDES!
+## OLÁ, SEJAM BEM-VINDES!
 Sou uma Aprendiz de Dev.Full Stack e Estou Aberta para Aprender/Compartilhar. <h3>
 
 <div>
